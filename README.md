@@ -2,7 +2,7 @@
 
 This repository contains code to perform analyses described in the following paper:
 
-Turbek SP, Bossu C, Rayne C, Gruppi C, Kus BE, Whitfield M, Smith TB, Paxton EH, Bay RA, and KC Ruegg (2023). Historical DNA reveals climate adaptation in an endangered songbird. Nature Climate Change.
+Turbek, S.P., C. Bossu, C. Rayne, C. Gruppi, B.E. Kus, M. Whitfield, T.B. Smith, E.H. Paxton, R.A. Bay, and K.C. Ruegg (2023). Historical DNA reveals climate adaptation in an endangered songbird. Nature Climate Change.
 
 ## Abstract
 
