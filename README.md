@@ -8,7 +8,7 @@ This repository contains code to perform analyses described in the following pap
 
 To cope with climate change, species may shift their distributions or adapt in situ to changing environmental conditions. However, clear examples of genetic changes via adaptation are limited. We explore evolutionary responses to climate change in the endangered southwestern willow flycatcher (*Empidonax trailli extimus*) through whole-genome comparisons between historical specimens, collected from 1888-1909 near San Diego, CA, and contemporary individuals from across the breeding range. Genomic analyses revealed that introgression into San Diego increased adaptive potential over time and shifted genome-wide population structure towards that of neighboring populations. In contrast, loci linked to climate (dew point temperature and precipitation) shifted away from neighboring populations and in a direction consistent with adaptation to climate change in southern CA. This research highlights the role of admixture in facilitating adaptive shifts through its impact on genome-wide genetic variation and represents one of the few studies to document climate adaptation in a wild population.
 
-![Figure 1](https://github.com/sturbek/WIFL-Climate-Adaptation/blob/main/Turbek_Figure1.pdf)
+[Figure 1.pdf](https://github.com/sturbek/WIFL-Climate-Adaptation/files/11849775/Turbek_Figure1.pdf)
 
 ## Code
 
